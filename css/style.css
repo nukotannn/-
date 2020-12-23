@@ -1,0 +1,55 @@
+.navbar{
+margin-top: -20px;
+}
+
+.carousel-item{
+    height: 700px;
+}
+
+.section-title{
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card-title{
+    font-size: 20px;
+}
+
+.plans-card-title{
+    font-size: 28px;
+}
+
+.list-group-item-card{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.copy-right{
+    font-size: 12px;
+}
+
+/*===================================
+スマホ用表示
+=====================================*/
+@media only screen and (max-width: 767px){
+
+
+.carousel-item{
+    height: 300px;
+}
+
+.about{
+    padding: 0 !important; 
+}
+.about-left{
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+    }
